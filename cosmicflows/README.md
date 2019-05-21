@@ -4,19 +4,21 @@ Column information for the table: Kourkchi-Tully Groups
 
 Table Description: Group catalog of 15,000 galaxies within 3500 km/s (ApJ 843, 16, 2017)
 
-Column	Description
-PGC	PGC number
-Name	Common name
-RA	Right ascension (J2000)
-DE	Declination (J2000)
-GLong	Galactic longitude
-GLat	Galactic latitude
-SGL	Supergalactic longitude
-SGB	Supergalactic latitude
-Ty	Numeric type from LEDA
-B_t	Bt total magnitude from LEDA
-K_t	Ks total magnitude, extinction corrected
-lgL_K	Log intrinsic K luminosity at group distance
+|Column	| Description |
+| ----- | ------- |
+| PGC	 | PGC number |
+| Name |	Common name |
+| RA |	Right ascension (J2000) |
+| DE | 	Declination (J2000) |
+| GLong |	Galactic longitude |
+| GLat	| Galactic latitude |
+| SGL	| Supergalactic longitude |
+| SGB	| Supergalactic latitude |
+| Ty	| Numeric type from LEDA| 
+| B_t	| Bt total magnitude from LEDA |
+| K_t	| Ks total magnitude, extinction corrected | 
+| lgL_K	| Log intrinsic K luminosity at group distance |
+
 Vhel	Heliocentric velocity
 Vls	Velocity in Local Sheet reference frame (Tully et al. 2008)
 D_i	Measured distance for individual galaxy
