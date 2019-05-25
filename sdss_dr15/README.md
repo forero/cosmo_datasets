@@ -11,8 +11,9 @@ SELECT
 FROM PhotoObj AS p
    JOIN SpecObj AS s ON s.bestobjid = p.objid
 WHERE 
-   p.r BETWEEN 0 AND 17.0
+   p.r BETWEEN 0 AND 17.5
    AND s.class = "GALAXY"
+  AND p.ra BETWEEN 90 and 270
 
 ```
 
