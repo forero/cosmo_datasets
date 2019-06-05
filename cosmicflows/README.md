@@ -23,7 +23,9 @@ Table Description: Group catalog of 15,000 galaxies within 3500 km/s (ApJ 843, 1
 | D_i	| Measured distance for individual galaxy |
 | eDi	| Percent error in measured distance |
 | PGC1	| PGC identification of brightest member of group | 
-| PGC1+	| PGC identification of brightest member of association|
+| PGC1+	| PGC identification of brightest member of association |
+
+
 Ng	Number of group members
 gGLong	Galactic longitude of group, average weighted by luminosity
 gGLat	Galactic latitude of group, average weighted by luminosity
