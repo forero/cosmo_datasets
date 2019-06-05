@@ -18,13 +18,12 @@ Table Description: Group catalog of 15,000 galaxies within 3500 km/s (ApJ 843, 1
 | B_t	| Bt total magnitude from LEDA |
 | K_t	| Ks total magnitude, extinction corrected | 
 | lgL_K	| Log intrinsic K luminosity at group distance |
-
-Vhel	Heliocentric velocity
-Vls	Velocity in Local Sheet reference frame (Tully et al. 2008)
-D_i	Measured distance for individual galaxy
-eDi	Percent error in measured distance
-PGC1	PGC identification of brightest member of group
-PGC1+	PGC identification of brightest member of association
+| Vhel	| Heliocentric velocity |
+| Vls	Velocity in Local Sheet reference frame (Tully et al. 2008)
+| D_i	Measured distance for individual galaxy |
+| eDi	Percent error in measured distance |
+| PGC1	| PGC identification of brightest member of group | 
+| PGC1+	| PGC identification of brightest member of association|
 Ng	Number of group members
 gGLong	Galactic longitude of group, average weighted by luminosity
 gGLat	Galactic latitude of group, average weighted by luminosity
